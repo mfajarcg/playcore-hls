@@ -10,7 +10,7 @@ import { LOAD_SDK_TIMEOUT, HLS_SDK, DEFAULT_HLS_RESOLUTION, HLS_DEFAULT_CONFIG, 
 
 class HLSCore extends BaseVideoCore {
 
-
+  // init component
   init () {
     
     if (!window.Hls) {
