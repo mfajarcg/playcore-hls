@@ -1,5 +1,5 @@
 {
-  "name": "mfajarcg/playcore-hls",
+  "name": "@core-player/playcore-hls",
   "version": "0.1.2",
   "description": "Support HLS file playback via hls.js",
   "main": "dist/playcore-hls.common.js",
